@@ -15,6 +15,7 @@ The data was split into features (X) and target (y), where y is the logS column 
 Model Building:
 
 Two regression models were built and evaluated:
+
 Linear Regression: A simple linear regression model was trained on the training data.
 
 Random Forest: A Random Forest Regressor model with a max_depth of 2 and random_state of 100 was trained on the training data.
@@ -22,6 +23,7 @@ Random Forest: A Random Forest Regressor model with a max_depth of 2 and random_
 The models were evaluated using Mean Squared Error (MSE) and R-squared (R2) metrics on both the training and testing sets.
 
 Results:
+
 The performance of the models is summarized in the following table:
 
 <img width="543" height="95" alt="Screenshot 2025-08-08 at 2 52 32 PM" src="https://github.com/user-attachments/assets/5e739ee7-d22d-47cb-b8e3-f691b90cc751" />

@@ -14,7 +14,9 @@ Model Building:
 Two regression models were built and evaluated:
 
 Linear Regression: A simple linear regression model was trained on the training data.
+
 Random Forest: A Random Forest Regressor model with a max_depth of 2 and random_state of 100 was trained on the training data.
+
 The models were evaluated using Mean Squared Error (MSE) and R-squared (R2) metrics on both the training and testing sets.
 
 Results:
